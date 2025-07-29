@@ -8,4 +8,7 @@ Business Scenario
 Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scene with its new AI-powered video game console. As a result, they have gone from a small 10 person operation to 200 employees and 5 locations in under a year. HR is having trouble keeping up with the growth since they are still maintaining employee information in a spreadsheet. While that worked for ten employees, it has become increasingly cumbersome to manage as the company expands.
 As such, the HR department has tasked you, as the new data architect, to design and build a database capable of managing their employee information.
 
+[hr-dataset.xlsx](https://github.com/user-attachments/files/21478724/hr-dataset.xlsx)
+
+
 
