@@ -1,5 +1,4 @@
-# Project-HR-Database-Design
-# Project 1: Designing an HR Database from the Udacity Data Architect Nanodegree program.
+# Project: Designing an HR Database from the Udacity Data Architect Nanodegree program.
 
 # Project Overview
 For this project, I designed, built, and populated a relational database for the HR Department of the fictional Tech ABC Corp. Based on the HR manager’s requirements, I created ER diagrams and implemented the database schema.
