@@ -17,9 +17,9 @@ The HR dataset you will be working with is an Excel workbook consisting of 206 r
 -Normalized the data to Third Normal Form (3NF).
 -Identified key entities: Employees, Departments, Jobs, Locations, Managers.
 -Created three Entity Relationship Diagrams (ERDs) using Lucidchart:
-  Conceptual ERD
-  Logical ERD
-  Physical ERD
+  Conceptual ERD,
+  Logical ERD,
+  Physical ERD,
 -Used PostgreSQL and pgAdmin to:
  Define the database schema and create tables with DDL scripts.
  Populate tables with data using DML statements.
